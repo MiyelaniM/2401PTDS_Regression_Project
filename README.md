@@ -1,19 +1,19 @@
-"# 2401PTDS Regression Project" 
-"## Project Goal" 
-"The aim of this project is to analyze and predict average temperature in the agri-food sector, using data from FAO and IPCC to understand climate impacts and develop sustainable strategies for stakeholders." 
-"## Dataset" 
-"- Multiple features: 30+" 
-"- Records: ~7000" 
-"## Project Structure" 
-"- notebooks/ – Jupyter Notebook files" 
-"- data/ – Input datasets" 
-"- outputs/ – Visualizations and results" 
-"## How to Run" 
-"Open the notebooks in Jupyter and run the cells sequentially." 
-"## Contributing" 
-"1. Fork the repository" 
-"2. Create a new branch" 
-"3. Commit your changes" 
-"4. Push and open a Pull Request" 
-"## License" 
-"MIT" 
+# 2401PTDS Regression Project 
+## Project Goal 
+The aim of this project is to analyze and predict average temperature in the agri-food sector, using data from FAO and IPCC to understand climate impacts and develop sustainable strategies for stakeholders. 
+## Dataset 
+- Multiple features: 30+ 
+- Records: ~7000 
+## Project Structure 
+- notebooks/ - Jupyter Notebook files 
+- data/ - Input datasets 
+- outputs/ - Visualizations and results 
+## How to Run 
+Open the notebooks in Jupyter and run the cells sequentially. 
+## Contributing 
+1. Fork the repository 
+2. Create a new branch 
+3. Commit your changes 
+4. Push and open a Pull Request 
+## License 
+MIT 
