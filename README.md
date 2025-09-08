@@ -6,7 +6,7 @@ The aim of this project is to analyze and predict average temperature in the agr
  
 ## 📊  Dataset 
 - Features: 30+ 
-- Records: ~7000 
+- Records: *7000 
 - Sources: FAO, IPCC 
 - Coverage: Global agri-food sector 
  
@@ -53,6 +53,16 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 3. Commit your changes (git commit -m "Add some feature") 
 4. Push to the branch (git push origin feature/your-feature) 
 5. Open a Pull Request 
- 
+
+🤵 Team Members
+- Dhlakama Munya 
+- Sokufudumala Lerato
+- Masuku Lindiwe
+- Mahendran Pillay
+- Mathebula Miyelani
+
+🔗 Links (Trello)
+- https://trello.com/invite/b/68bc6da73352b7b4c0a960cc/ATTI0ce5a8ff528837aed0e9fbd572b445a296B2C5CB/2401ptds-regression-project
+
 🪪 License 
 MIT 
